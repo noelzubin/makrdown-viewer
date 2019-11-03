@@ -7,10 +7,6 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
     vertical-align: baseline
 }
 
-ol,ul {
-    list-style: none
-}
-
 table {
     border-collapse: collapse;
     border-spacing: 0
@@ -116,4 +112,13 @@ code {
   border: 1px solid #e1e1e1;
   border-radius: 3px;
   margin: 10px 0;
+}
+
+
+ul, li {
+  margin-left: 24px;
+}
+
+p > code {
+  padding: 0 5px;
 }
