@@ -1,0 +1,119 @@
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font: inherit;
+    font-size: 100%;
+    vertical-align: baseline
+}
+
+ol,ul {
+    list-style: none
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0
+}
+
+caption,th,td {
+    text-align: left;
+    font-weight: normal;
+    vertical-align: middle
+}
+
+q,blockquote {
+    quotes: none
+}
+
+q,blockquote {
+    quotes: none
+}
+
+q:before,q:after,blockquote:before,blockquote:after {
+    content: "";
+    content: none
+}
+
+a img {
+    border: none
+}
+
+article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section,summary {
+    display: block
+}
+
+html {
+    font-family: "Avenir","AvenirLTStd-Light";
+    font-size: 100%;
+    -webkit-text-size-adjust: none
+}
+
+body {
+    background-color: #fff;
+    color: #555;
+    line-height: 1.5em;
+    margin: 48px auto;
+    width: 1000px;
+    max-width: calc(100vw - 96px);
+    display: block;
+}
+
+h1 {
+  font-size: 3.1em;
+  line-height: 1.6em
+}
+
+h2 {
+  font-size: 2.1em;
+  line-height: 1.6em
+}
+
+h3 {
+    line-height: 1.8em;
+    font-size: 1.5em;
+}
+
+h1,h2,h3 {
+    color: #222
+}
+
+h4, h5 {
+  color: #A3ABB3;
+  font-size: 1.3em;
+}
+
+h1,h2,h3,h4,h5 {
+  margin-top: 10px;
+}
+
+a {
+    color: #DD4C4F;
+    text-decoration: none
+}
+
+b,strong {
+    font-family: "Avenir-Medium","AvenirLTStd-Medium";
+    color: #444
+}
+
+i {
+    font-style: italic;
+    text-align: left
+}
+
+em {
+    background-image: linear-gradient(to bottom, rgba(0,0,0,0) 50%,#dd4c4f 50%);
+    background-repeat: repeat-x;
+    background-size: 2px 2px;
+    background-position: 0 1.1em
+}
+
+code {
+  font-family: sauceCodePro NF;
+  font-size: 14px;
+  background: #f7f9fa !important;
+  border: 1px solid #e1e1e1;
+  border-radius: 3px;
+  margin: 10px 0;
+}
